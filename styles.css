@@ -1,0 +1,39 @@
+body {
+    background-color: #c4b98d; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    color: black; margin: auto; width: 50%;
+    font-size: 21px; border: green; padding: 10px;
+}
+
+button {
+    background-color: white; 
+    font-size: 20px; 
+}
+
+h1 {
+    color: white; font-size: 42px; margin: auto; width: 50%;
+}
+
+p{
+    color: white; font-size: 21px; margin: auto; width: 50%;
+}
+
+h2 {
+    color: white; font-size: 38px; margin: auto; width: 50%;
+}
+
+h3 {
+    color: white; font-size: 30px; margin: auto; width: 50%;
+}
+
+a {color: black; font-size: 42;
+}
+
+img {
+    position:relative; left: 25%;
+}
+
+
